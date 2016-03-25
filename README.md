@@ -1,0 +1,2 @@
+# Reversi
+CSC2700
